@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "nayak-adf"
 		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "nayak-adf"
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
 		}
 	}
 }
