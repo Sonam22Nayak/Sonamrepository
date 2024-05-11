@@ -1,0 +1,9 @@
+{
+	"name": "nayak-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eedd9dec-6369-42f8-9a92-bf79c48eec21",
+		"tenantId": "e0e3f516-22a4-40d7-9921-ef7c484dbf0e"
+	}
+}
